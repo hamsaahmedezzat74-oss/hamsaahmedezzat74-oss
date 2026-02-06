@@ -37,13 +37,15 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+
+ ---
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Hemsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Hamsa ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsaAhmed&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaAhmed&layout=compact&theme=tokyonight)
 
 </div>
 
