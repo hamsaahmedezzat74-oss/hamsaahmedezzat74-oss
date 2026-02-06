@@ -38,19 +38,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
- ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-![HamsaAhmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsaAhmed&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaAhmed&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
-
 ## 📂 Projects
 🔹 Frontend Projects using **HTML, CSS & JavaScript**  
 🔹 Practice projects for **problem solving with C++**  
