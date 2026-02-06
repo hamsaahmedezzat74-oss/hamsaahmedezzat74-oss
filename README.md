@@ -46,19 +46,6 @@
 🔹 More projects coming soon 🚀  
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hamsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## ✨ Fun Fact
 💡 I enjoy turning designs into real interactive websites  
 🎨 I care about clean UI & user experience  
