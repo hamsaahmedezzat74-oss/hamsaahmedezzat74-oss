@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 I study **Computer Science & Information**
-- 🌐 Frontend Developer with solid experience in:
+- 🌐Background in Frontend with experience in:
   - **HTML**
   - **CSS**
   - **JavaScript**
