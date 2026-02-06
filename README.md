@@ -43,7 +43,7 @@
 
 <div align="center">
 
-![hamsaahmedezzat74-oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsaAhmed&show_icons=true&theme=tokyonight)
+![HamsaAhmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsaAhmed&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaAhmed&layout=compact&theme=tokyonight)
 
