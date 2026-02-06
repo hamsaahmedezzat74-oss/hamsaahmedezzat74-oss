@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="60%" />
 
-## Hi, I'm Hemsa Ahmed 👋  
+## Hi, I'm Hamsa Ahmed 👋  
 🎓 Computer Science Student    
 
 </div>
@@ -37,6 +37,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+
 ---
 
 ## 📂 Projects
@@ -50,7 +51,7 @@
 
 <div align="center">
 
-![Hemsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Hamsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
